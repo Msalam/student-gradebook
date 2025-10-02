@@ -16,4 +16,4 @@ The program allows entering student names and grades, storing them in a dictiona
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Msalam/gradebook.git
+   git clone https://github.com/Msalam/student-gradebook.git
